@@ -1,6 +1,6 @@
 # CodeCrashers
 
-Deze repository correspondeert met de [**JavaScript**](https://codecrashers.nl/cursussen/javascript) cursus van CodeCrashers.
+Deze repository correspondeert met de [**JavaScript**](https://codecrashers.nl/lesmateriaal/javascript) cursus van CodeCrashers.
 
 ---
 
